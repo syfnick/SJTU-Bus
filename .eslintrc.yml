@@ -1,0 +1,24 @@
+env:
+  browser: true
+extends: 'eslint:recommended'
+rules:
+  indent:
+    - error
+    - 2
+  linebreak-style:
+    - error
+    - unix
+  quotes:
+    - error
+    - single
+  semi:
+    - error
+    - never
+globals:
+  BMap: true
+  BMAP_STATUS_SUCCESS: true
+  SBus: true
+  Zepto: true
+  jQuery: true
+  Spinner: true
+  $: true

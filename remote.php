@@ -12,7 +12,7 @@
 	<meta name="author" content="JerryZou">
 	<meta name="keywords" content="上海交大,校园巴士,校车,教工班车,时刻表,上海交通大学,JerryZou,邹润阳">
 	<meta name="description" content="上海交通大学校园巴士时刻表 by Jerry Zou，你可以在这里查看详细的校园巴士到站时间。">
-	<link href="css/remote.css" rel="stylesheet"/>
+	<link href="styles/remote.less" rel="stylesheet"/>
 </head>
 <body>
 
@@ -21,7 +21,8 @@
 		<h1>教工班车时刻表</h1>
 		<ul class="tips">
             <li class="notice">2015年11月2日起实施新的时刻表</li>
-            <li>本时刻表最后更新时间：2015年11月2日</li>
+            <li>本时刻表最后更新时间：2019年04月19日</li>
+						<li><a href="http://houqin.sjtu.edu.cn/show.asp?id=1939">天钥、上中支线发车时间调整</a></li>
 		</ul>
 
 		<div id="bookmark-container">
@@ -37,7 +38,7 @@
 
 		<h2 id="xh-to-mh-workday">徐汇 &rarr; 闵行<span>（工作日 - 周一至周五）</span></h2>
 		<table>
-			<tr><td>6:45</td><td>天钥桥路始发，途经上中、罗阳至闵行</td></tr>
+			<tr><td>6:40</td><td>天钥桥路始发，途经上中、罗阳至闵行</td></tr>
 			<tr><td>6:45</td><td>田林始发，途经古美至闵行</td></tr>
 			<tr><td>7:00</td><td>徐汇校区、交大新村分别始发</td></tr>
 			<tr><td>7:30</td><td>徐汇校区、交大新村、田林、古美（途径罗阳）分别始发</td></tr>
@@ -60,7 +61,7 @@
 			<tr><td>12:15</td><td><span data-num="3">3班</span></td></tr>
 			<tr><td>14:10</td><td><span data-num="2">2班</span></td></tr>
 			<tr><td>16:00</td><td><span data-num="3">3班</span></td></tr>
-			<tr><td>17:00</td><td>徐汇校区（直达，途径罗阳、上中、天钥、交大新村）、田林、古美； 教工亦可在东区行政B楼官场乘车直达徐汇校区</td></tr>
+			<tr><td>17:00</td><td>徐汇校区（直达，途径罗阳、上中、天钥、交大新村）、田林、古美； 教工亦可在东区行政B楼广场乘车直达徐汇校区</td></tr>
 			<tr><td>18:30</td><td><span data-num="2">2班</span></td></tr>
 			<tr><td>20:40</td><td><span data-num="2">2班</span></td></tr>
 		</table>
